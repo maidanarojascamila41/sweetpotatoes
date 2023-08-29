@@ -1,0 +1,42 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400&family=Open+Sans:wght@700&display=swap');
+
+*{
+    font-family:  'Lato', sans-serif;
+   
+    
+    
+}
+
+body{ border-style: solid;
+    margin:30px 50px 30px 50px;
+}
+
+div{margin: 30px 70px 30px 70px;}
+
+.contenedor-inicio h1{font-size:40px; 
+font-weight:  bold;}
+
+.contenedor-inicio i{font-weight:500;
+font-family:'Times New Roman', Times, serif;
+font-size: 20px;}
+
+
+
+
+.contenedor-comida{ 
+    padding-left: 0px;
+    width: 1000px;
+    height: 300px;
+    overflow: hidden;
+    margin-bottom: 50px;
+}
+.contenedor-ingredientes{ margin-bottom: 40px;}
+.contenedor-ingredientes h1{margin-bottom: 30px;
+fon}
+.contenedor-ingredientes h2{margin-bottom: 40px;}
+li{font-size: 13px;
+line-height: 150%;
+}
+
+
